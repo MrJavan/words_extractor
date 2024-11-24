@@ -1,0 +1,1716 @@
+{
+    "پسر": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "بزرگ": {
+        "Count": 3,
+        "Sources": [
+            "file1",
+            "file3"
+        ]
+    },
+    "آنها": {
+        "Count": 6,
+        "Sources": [
+            "file1",
+            "file2"
+        ]
+    },
+    "کویچی": {
+        "Count": 2,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "پزشکی": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "است": {
+        "Count": 7,
+        "Sources": [
+            "file1",
+            "file2",
+            "file3"
+        ]
+    },
+    "که": {
+        "Count": 6,
+        "Sources": [
+            "file1",
+            "file2",
+            "file3"
+        ]
+    },
+    "مطب": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "کوچکی": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "در": {
+        "Count": 18,
+        "Sources": [
+            "file1",
+            "file2",
+            "file3"
+        ]
+    },
+    "حومه": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "توکیو": {
+        "Count": 2,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "دارد": {
+        "Count": 4,
+        "Sources": [
+            "file1",
+            "file2",
+            "file3"
+        ]
+    },
+    "دختر": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "شیگه": {
+        "Count": 2,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "آرایشگاه": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "هر": {
+        "Count": 4,
+        "Sources": [
+            "file1",
+            "file2"
+        ]
+    },
+    "دو": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "پُرمشغله": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "گرفتارِ": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "زندگیِ": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "روزمره": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "هستند": {
+        "Count": 3,
+        "Sources": [
+            "file1",
+            "file2",
+            "file3"
+        ]
+    },
+    "وقتِ": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "چندانی": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "برای": {
+        "Count": 3,
+        "Sources": [
+            "file1",
+            "file2"
+        ]
+    },
+    "والدین": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "خود": {
+        "Count": 3,
+        "Sources": [
+            "file1",
+            "file3"
+        ]
+    },
+    "ندارند": {
+        "Count": 2,
+        "Sources": [
+            "file1",
+            "file3"
+        ]
+    },
+    "فقط": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "عروسِ": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "بیوه": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "نوریکو": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "همسرِ": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "پسرِ": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "وسطی": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "شوجی": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "عملیاتی": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "جنگ": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "اقیانوس": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "آرام": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "مفقودالاثر": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "شده": {
+        "Count": 2,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "گمان": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "می‌رود": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "کشته": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "باشد": {
+        "Count": 3,
+        "Sources": [
+            "file1",
+            "file2"
+        ]
+    },
+    "تمام": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "تلاش": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "را": {
+        "Count": 7,
+        "Sources": [
+            "file1",
+            "file2",
+            "file3"
+        ]
+    },
+    "می‌کند": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "تا": {
+        "Count": 3,
+        "Sources": [
+            "file1",
+            "file3"
+        ]
+    },
+    "سرگرم": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "کند": {
+        "Count": 2,
+        "Sources": [
+            "file1",
+            "file2"
+        ]
+    },
+    "او": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "ساعاتی": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "از": {
+        "Count": 7,
+        "Sources": [
+            "file1",
+            "file2",
+            "file3"
+        ]
+    },
+    "شغل": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "اداری": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "پرمشغله‌اش": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "می‌زند": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "وقت": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "می‌گذارد": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "شوکیچی": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "تومی": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "به": {
+        "Count": 11,
+        "Sources": [
+            "file1",
+            "file2",
+            "file3"
+        ]
+    },
+    "یک": {
+        "Count": 12,
+        "Sources": [
+            "file1",
+            "file2",
+            "file3"
+        ]
+    },
+    "تور": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "گردشگری": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "کلان‌شهر": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "ببرد": {
+        "Count": 1,
+        "Sources": [
+            "file1"
+        ]
+    },
+    "اصطلاح": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مسئله": {
+        "Count": 4,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "شطرنج": {
+        "Count": 17,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "به‌طور": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "کاملاً": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "دقیقی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "تعریف": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "نشده‌است": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "عمل": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مسائل": {
+        "Count": 10,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "می‌توانند": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "شامل": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "همهٔ": {
+        "Count": 3,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "معماهای": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "نظری": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "ترکیب": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "آرایش": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مهره‌ها": {
+        "Count": 4,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مقطع": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "بازی؛": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "یا": {
+        "Count": 3,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "تمرین‌ها": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "راهکارهای": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "پایان": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "بازی": {
+        "Count": 4,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "بشوند": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "بی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "آنکه": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مرز": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مشخصی": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "بین": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "تمایز": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "ایجاد": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "با": {
+        "Count": 7,
+        "Sources": [
+            "file2",
+            "file3"
+        ]
+    },
+    "این": {
+        "Count": 5,
+        "Sources": [
+            "file2",
+            "file3"
+        ]
+    },
+    "حال": {
+        "Count": 3,
+        "Sources": [
+            "file2",
+            "file3"
+        ]
+    },
+    "نشریات": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "تخصصی": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "وقتی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "طرح": {
+        "Count": 3,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "می‌شود": {
+        "Count": 3,
+        "Sources": [
+            "file2",
+            "file3"
+        ]
+    },
+    "تردیدی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "درک": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "منظور": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "نیست": {
+        "Count": 3,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "اکثر": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "کتب": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مجلات": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "فصل": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "بخشی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "معرفی": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "اختصاص": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "می‌دهند": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "باشگاه‌های": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "یکی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "شیوه‌های": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مؤثر": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "تمرین": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "کسب": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مهارت": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "حل": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "چند": {
+        "Count": 3,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "ویژگی‌های": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "گوناگون": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "ویژگی‌ها": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "نمی‌شوند": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "اما": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "بیشتر": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "دارای": {
+        "Count": 3,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "ویژگی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مشترک": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "می‌باشند:": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "چیدمان": {
+        "Count": 3,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "روی": {
+        "Count": 3,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "صفحه": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "ساختگی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "است؛": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "یعنی": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "معمولاً": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "وضعیت": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "محصول": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "سلسله": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "حرکات": {
+        "Count": 5,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "پی": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "واقعی": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "نمونه‌های": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "کیفیت": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "شرط": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "کیفی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "باید": {
+        "Count": 3,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "بر": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "اساس": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "قانونی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "قابل": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "بازگشت": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مهره‌های": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "قبل": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "شروع": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "هرچند": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "احتمال": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "وقوع": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "نزدیک": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "صفر": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مطالبات": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "تعیین": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "شده‌ای": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مثال": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مات": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "کردن": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "سیاه": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "تعداد": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "انجام": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "گیرد": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "موضوع": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مرتبط": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "خاص": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "تمرکز": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "غالباً": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "ایده": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "ای": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "طراحی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "می‌شوند": {
+        "Count": 2,
+        "Sources": [
+            "file2",
+            "file3"
+        ]
+    },
+    "قدرت": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "سوار": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "سبک": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مانند": {
+        "Count": 2,
+        "Sources": [
+            "file2",
+            "file3"
+        ]
+    },
+    "اسب": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "موقعیتی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مطلوب": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "نمایش": {
+        "Count": 3,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "داده": {
+        "Count": 2,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "ساختاری": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "اقتصادی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "دارند؛": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "هیچ": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مهره": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "اضافی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "کار": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "نرفته": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "معما": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "حداقل": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "تضمین": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "شده‌است": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "ارزش": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "هنری": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "مقصود": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "تنها": {
+        "Count": 3,
+        "Sources": [
+            "file2",
+            "file3"
+        ]
+    },
+    "پیچیده": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "بلکه": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "هدف": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "هنرمندی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "روشنی": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "شود": {
+        "Count": 1,
+        "Sources": [
+            "file2"
+        ]
+    },
+    "نهنگ": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "قاتل": {
+        "Count": 3,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "نام": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "اُرکا": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "نیز": {
+        "Count": 3,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "شناخته": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "جانوری": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "آبزی‌است": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "خانوادهٔ": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "دلفین‌های": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "اقیانوسی": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "تعلق": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "بزرگ‌ترین": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "جاندار": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "میان": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "دلفین‌سانان": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "نهنگ‌های": {
+        "Count": 3,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "اقیانوس‌های": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "سراسر": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "جهان": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "دریاهای": {
+        "Count": 2,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "قطبی": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "گرفته": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "گرمسیری": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "یافت": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "آن‌ها": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "طعمه‌های": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "گوناگونی": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "به‌عنوان": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "غذا": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "اختیار": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "می‌کنند": {
+        "Count": 4,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "بعضی": {
+        "Count": 2,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "گروه‌ها": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "دنبال": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "طعمه": {
+        "Count": 2,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "می‌روند": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "ماهیان": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "تغذیه": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "برخی": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "دیگر": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "گله‌های": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "پستانداران": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "دریایی": {
+        "Count": 3,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "فک": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "شیر": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "گراز": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "حتی": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "نهنگ‌ها": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "حمله": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "بالای": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "هرم": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "غذایی": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "دشمنان": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "طبیعی": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    },
+    "گاه": {
+        "Count": 1,
+        "Sources": [
+            "file3"
+        ]
+    }
+}
